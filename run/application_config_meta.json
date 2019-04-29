@@ -1,0 +1,277 @@
+{
+  "keys": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/config/config.default.js",
+  "view": {
+    "defaultViewEngine": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/config/config.default.js",
+    "mapping": {
+      ".tpl": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/config/config.default.js"
+    },
+    "root": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-view/config/config.default.js",
+    "cache": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-view/config/config.default.js"
+  },
+  "news": {
+    "pageSize": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/config/config.default.js",
+    "serverUrl": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/config/config.default.js"
+  },
+  "middleware": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/config/config.default.js",
+  "robot": {
+    "ua": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/config/config.local.js"
+  },
+  "session": {
+    "maxAge": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-session/config/config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-security/config/config.default.js",
+    "csrf": {
+      "enable": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-security/config/config.default.js",
+      "useSession": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-security/config/config.default.js",
+      "headerName": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-security/config/config.default.js"
+    },
+    "xframe": {
+      "enable": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-schedule/config/config.default.js"
+  },
+  "multipart": {
+    "mode": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-multipart/config/config.default.js",
+    "autoFields": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-multipart/config/config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-development/config/config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-static/config/config.default.js",
+    "dir": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-static/config/config.default.js"
+  },
+  "nunjucks": {
+    "autoescape": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-view-nunjucks/config/config.default.js",
+    "throwOnUndefined": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-view-nunjucks/config/config.default.js",
+    "trimBlocks": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-view-nunjucks/config/config.default.js",
+    "lstripBlocks": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-view-nunjucks/config/config.default.js",
+    "cache": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-view-nunjucks/config/config.local.js"
+  },
+  "env": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg/config/config.default.js",
+  "name": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg/config/config.default.js",
+  "maxProxyCount": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg/config/config.default.js",
+    "version": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg/config/config.default.js",
+    "description": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg/config/config.default.js",
+    "main": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg/config/config.default.js",
+    "scripts": {
+      "test": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg/config/config.default.js",
+      "dev": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg/config/config.default.js"
+    },
+    "author": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg/config/config.default.js",
+    "license": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg/config/config.default.js",
+    "dependencies": {
+      "egg": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg/config/config.default.js",
+      "egg-view-nunjucks": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg/config/config.default.js",
+      "moment": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "egg-bin": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg/config/config.default.js",
+      "egg-mock": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg/config/config.default.js"
+    }
+  },
+  "baseDir": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg/config/config.default.js",
+    "strict": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg/config/config.default.js",
+      "depth": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg/config/config.default.js"
+    }
+  },
+  "logger": {
+    "dir": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg/config/config.default.js",
+    "env": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg/config/config.default.js",
+    "level": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg/config/config.default.js",
+    "logging": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg/config/config.default.js",
+      "port": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg/config/config.default.js"
+}

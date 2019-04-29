@@ -1,0 +1,40 @@
+2019-04-29 11:03:32,910 INFO 88736 [egg-schedule]: register schedule /Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-29 11:03:32,910 INFO 88736 [egg-schedule]: register schedule /Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-29 11:03:55,907 INFO 88738 [egg-schedule]: register schedule /Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-29 11:03:55,907 INFO 88738 [egg-schedule]: register schedule /Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-29 11:04:13,325 INFO 88740 [egg-schedule]: register schedule /Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-29 11:04:13,325 INFO 88740 [egg-schedule]: register schedule /Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-29 11:30:23,555 INFO 89119 [Timer] /Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 44976447ms at 2019-04-30 00:00:00.002
+2019-04-29 11:30:23,555 INFO 89119 [Timer] /Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 44977445ms at 2019-04-30 00:00:01.000
+2019-04-29 11:30:23,469 INFO 89120 [egg-schedule]: register schedule /Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-29 11:30:23,469 INFO 89120 [egg-schedule]: register schedule /Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-29 13:34:03,852 INFO 89227 [Timer] /Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 37556149ms at 2019-04-30 00:00:00.001
+2019-04-29 13:34:03,853 INFO 89227 [Timer] /Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 37557147ms at 2019-04-30 00:00:01.000
+2019-04-29 13:34:03,764 INFO 89228 [egg-schedule]: register schedule /Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-29 13:34:03,764 INFO 89228 [egg-schedule]: register schedule /Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-29 13:34:29,409 INFO 89413 [Timer] /Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 37530592ms at 2019-04-30 00:00:00.001
+2019-04-29 13:34:29,410 INFO 89413 [Timer] /Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 37531590ms at 2019-04-30 00:00:01.000
+2019-04-29 13:34:29,342 INFO 89414 [egg-schedule]: register schedule /Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-29 13:34:29,342 INFO 89414 [egg-schedule]: register schedule /Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-29 13:46:45,225 INFO 89442 [egg-schedule]: register schedule /Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-29 13:46:45,225 INFO 89442 [egg-schedule]: register schedule /Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-29 13:47:32,854 INFO 89445 [egg-schedule]: register schedule /Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-29 13:47:32,855 INFO 89445 [egg-schedule]: register schedule /Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-29 13:47:40,222 INFO 89451 [Timer] /Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 36739780ms at 2019-04-30 00:00:00.002
+2019-04-29 13:47:40,222 INFO 89451 [Timer] /Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 36740778ms at 2019-04-30 00:00:01.000
+2019-04-29 13:47:40,156 INFO 89452 [egg-schedule]: register schedule /Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-29 13:47:40,156 INFO 89452 [egg-schedule]: register schedule /Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-29 13:48:04,048 INFO 89453 [egg-schedule]: register schedule /Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-29 13:48:04,048 INFO 89453 [egg-schedule]: register schedule /Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-29 13:48:10,290 INFO 89459 [Timer] /Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 36709711ms at 2019-04-30 00:00:00.001
+2019-04-29 13:48:10,291 INFO 89459 [Timer] /Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 36710710ms at 2019-04-30 00:00:01.001
+2019-04-29 13:48:10,224 INFO 89460 [egg-schedule]: register schedule /Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-29 13:48:10,224 INFO 89460 [egg-schedule]: register schedule /Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-29 13:49:19,063 INFO 89461 [egg-schedule]: register schedule /Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-29 13:49:19,063 INFO 89461 [egg-schedule]: register schedule /Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-29 13:49:34,605 INFO 89462 [egg-schedule]: register schedule /Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-29 13:49:34,605 INFO 89462 [egg-schedule]: register schedule /Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-29 13:50:10,658 INFO 89468 [Timer] /Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 36589343ms at 2019-04-30 00:00:00.001
+2019-04-29 13:50:10,659 INFO 89468 [Timer] /Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 36590342ms at 2019-04-30 00:00:01.001
+2019-04-29 13:50:10,592 INFO 89469 [egg-schedule]: register schedule /Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-29 13:50:10,592 INFO 89469 [egg-schedule]: register schedule /Users/ppd-03020208/WebstormProjects/eggjs-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
